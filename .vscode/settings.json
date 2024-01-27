@@ -2,5 +2,6 @@
     "files.associations": {
         "vector": "cpp",
         "unordered_map": "cpp"
-    }
+    },
+    "git.enabled": true
 }
