@@ -7,7 +7,7 @@ Given an array of intervals where intervals[i] = [starti, endi], merge all overl
 
  
 
-Example 1:
+Example 1-
 
 Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
 Output: [[1,6],[8,10],[15,18]]
